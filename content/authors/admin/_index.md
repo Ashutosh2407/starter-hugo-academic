@@ -1,7 +1,7 @@
 ---
 title: Ashutosh Wagh
 role: Software Engineer and a Machine Learning enthusiast
-avatar_filename: 1629816333077-modified.png
+avatar_filename: avatar.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
