@@ -1,6 +1,7 @@
 ---
-title: Alice Bighetti 吳恩達
-role: Professor of Artificial Intelligence
+title: Ashutosh Wagh
+role: Software Engineer and a Machine Learning enthusiast
+avatar_filename: 1629816333077-modified.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
